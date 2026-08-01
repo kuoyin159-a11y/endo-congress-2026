@@ -1,10 +1,6 @@
-# 2026 牙髓病學會年會靜態網站
+# 中華民國牙髓病學會第18屆第二次會員大會暨第136次學術研討會
 
-這個資料夾可直接部署到 GitHub Pages，不需要資料庫或伺服器。
+現代牙髓病學：精準與實務的完美結合  
+When Precision Meets Practice in Modern Endodontics
 
-1. 建立新的 GitHub repository。
-2. 上傳 `index.html`、`.nojekyll` 與 `gala-poster.png`。
-3. 到 Settings → Pages。
-4. Source 選 Deploy from a branch，Branch 選 main / root。
-
-所有提問按鈕會開啟對應會議廳的 Slido。
+2026.08.15–2026.08.16｜大臺南會展中心
